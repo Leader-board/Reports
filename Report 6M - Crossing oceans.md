@@ -12,7 +12,7 @@ This is Leaderboard’s sixth report and one of the longest ones till date and t
 * Where module codes should be mentioned, they will be of the form (CS P/CS Q) or (MA P/MT Q), where P is the module code at Purdue, and Q is the module code at St Andrews. Note that P is almost always 3 digits at Purdue, and Q is always 4 digits. This is meant to help students from one university who may not be familiar with the equivalent elsewhere. Also please see https://www.cs.purdue.edu/academic-programs/courses/index.html for Purdue and https://www.st-andrews.ac.uk/coursecatalogue for St Andrews.
 * Assets included here are the copyright of their respective owners (which could be myself if I created them).
 * There is no guarantee that future cohorts will experience anything similar to what I had, especially due to the virus (see Part 5).
-* **Markdown only**: Please hover over the images to see the caption (which is displayed directly in the **P** version). This also servers as the alternate text.
+* **M version only**: Please hover over the images to see the caption (which is displayed directly in the **P** version). This also servers as the alternate text. Mobile users may require a tap instead.
 
 Finally, please enjoy this piece of work constructed over a few nights. I was supposed to write a report as part of my scholarship requirements, and this is meant to satisfy that as well.
 
