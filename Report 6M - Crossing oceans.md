@@ -197,7 +197,7 @@ I mainly used my laptop – connected using an HDMI cable to the lab computer’
 
 One irritating drawback is the spam filtering system. For some reason, Purdue does not employ Outlook’s default system and instead uses Cisco. The main problem is that it holds suspicious emails and then sends emails informing about them. I’d much rather have them sent to my Junk Emails folder instead! And there are often *cool cash* emails like the below:
 
-![Figure 12 An example of a "cool cash" email](assets/R6P12.png "Figure 12 An example of a cool cash email")
+![Figure 12 An example of a "cool cash" email. Name has been censored as it is not the student’s fault as such.](assets/R6P12.png "Figure 12 An example of a cool cash email")
 
 What happens there is that students’ emails get compromised, and then spam emails like the above get sent to others. I first got one of them before even stepping foot into the U.S, and was naturally wondering who would contact *me* about a job offer… 
 
