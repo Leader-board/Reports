@@ -17,8 +17,8 @@ This is Leaderboard’s sixth report and one of the longest ones till date and t
 Finally, please enjoy this piece of work constructed over a few nights. I was supposed to write a report as part of my scholarship requirements, and this is meant to satisfy that as well.
 
 Technical information: <br>
-Version 1.0 RC1**M** <br>
-Compiled on 4/6/20 <br>
+Version 1.0 RC2**M** <br>
+Compiled on 11/6/20 <br>
 
 > **M** or **P**? It is up to you. The **M** version is easier to read on mobile or tablets, while the **P** version is PDF, has pagination and has the formatting that I intended from the start. The content is identical.
 
@@ -87,7 +87,7 @@ As a non-US citizen planning to study at the US, I needed to get a J1 US visa. T
 
 So I reached the US two weeks before with my parents because none of us had ever visited the US and wanted to experience it (though I personally disagreed, but well). We got down at New York and roamed there for some time, then went to D.C by car, roamed there, went back to New York for the Niagara Falls, roamed there, and then went to Indiana. All with the same car (a Ford Flex). Despite the huge distance, this was doable because both my parents drive, and hence all they had to do was to get IDL (international driving licences) and then share the driving load. And with the huge luggage, flying was anyway prohibitively costly thanks to United and Co’s crappy baggage policies. I wished I could help as well but did not have a licence.
 
-Once we got into West Lafayette (which is where Purdue is at!), my parents dropped me off and said goodbye. That’s where I also met my roommate (it should be noted that Purdue allows you to pick your ‘mate, though such an option was useless for me). His name was Logan Flake.
+Once we got into West Lafayette (which is where Purdue is at!), my parents dropped me off and said goodbye. That’s where I also met my roommate (it should be noted that Purdue allows you to pick your ‘mate, though such an option was useless for me). His name was Logan Flake. 
 
 And I also brought the textbooks for my classes. One of them was physical, one online (which I could not escape as that was required to do the homework). A detailed description will follow.
 
@@ -227,6 +227,8 @@ Turns out that was completely true, and he fired the first shot:
 
 Notice that he said about bringing a fridge and microwave. This might confuse St Andrews students, as while bringing such items is not allowed there, it’s completely normal at Purdue (and I’ve seen far more elaborate furniture modifications!). I was also confused, and it took a follow up for him to clear that for me.
 
+That being said, he ended up being an excellent roommate in the end. Partially because he did not drink alcohol at all (which is something that I appreciate), but also proved to be a very good one all across the board. Admittedly his major was unrelated to mine, which meant that none of our classes were common, and worse he did not know MA161 (MT1001)-level mathematics or even the basics of CS, which was very irritating to me (like he would go clueless if I tried to say anything remotely related to maths/CS). That isn't his problem though, and I recognised that. This makes me a bit sad that I'll be having a single room when (if) I return back to St Andrews.
+
 The first port of call at Purdue residences is the RA (Residence Assistant), who is normally an undergraduate, and in this case, was a second year CS student from Indiana. He was reasonably good, organising a reasonable spread of events and weekly dinners (that not many showed up, and neither of us did either).
 
 ![Figure 14 One of the RA's ideas. Compared to St Andrews though, Purdue is significantly better.](assets/R6P14.png "Figure 14 One of the RA's ideas. Compared to St Andrews though, Purdue is significantly better.")
@@ -347,7 +349,7 @@ I never planned to write this part, but the coronavirus, well changed everything
 
 ### The initial days
 
-As it is now well known, the coronavirus started in December 2019 and rapidly spread first in Wuhan, then to the rest of China, and now to the rest of the world. Till mid to late February, not many cared as the virus was mostly a China thing till then. However, from there the world started to take notice, and it started with my MSP Americas Summit in Mexico (remember Report 1 where I went to Amsterdam? https://github.com/Leader-board/Reports/blob/master/MSP%20Summit%202019%20report.pdf) being cancelled. Not just that, but many other tech events. However, many still had not woken up to reality partially thanks to that trumpet who is the U.S President. Purdue itself did not do much for a long time either, still saying as late as March 3 that it would be very unlikely for the virus to progress to a stage where classes would have to go online (St Andrews in comparison correctly predicted that classes may never be in-person for the rest of the semester). It *felt* however that something big would happen. In fact, my CS381 professor was spot on – it was the last class before spring break – he had already cancelled that Thursday (due to the midterm) – and he said something on the lines of “today is perhaps the last day you’ll ever see me in person”. That was a nice class. But that evening, something happened that would throw everything off gear.
+As it is now well known, the coronavirus started in December 2019 and rapidly spread first in Wuhan, then to the rest of China, and now to the rest of the world. Till mid to late February, not many cared as the virus was mostly a China thing till then. However, from there the world started to take notice, and it started with my MSP Americas Summit in Mexico (remember Report 1 where I went to Amsterdam? https://github.com/Leader-board/Reports/blob/master/MSP%20Summit%202019%20report.pdf) being cancelled. Not just that, but many other tech events. However, many still had not woken up to reality partially thanks to that trumpet who is the U.S President. Purdue itself did not do much for a long time either, still saying as late as March 3 that it would be very unlikely for the virus to progress to a stage where classes would have to go online (St Andrews in comparison correctly predicted that classes may never be in-person for the rest of the semester, though incorrectly predicted that the university would never close). It *felt* however that something big would happen. In fact, my CS381 professor was spot on – it was the last class before spring break – he had already cancelled that Thursday (due to the midterm) – and he said something on the lines of “today is perhaps the last day you’ll ever see me in person”. That was a nice class. But that evening, something happened that would throw everything off gear.
 
 ### The sudden halt
 
@@ -395,7 +397,7 @@ All my finals were online, and a Purdue policy mandating a 24-hour window meant 
 
 ## Part 6 - Photographs
 
-Here you go! Only a small selection is included for obvious reasons. Mostly from the second semester, because that’s where the best photos are.
+Here you go! Only a small selection is included for obvious reasons. Mostly from the second semester, because that’s where the best photos are. Again as a reminder for **M** users, hover over the image to see the description.
 
 ![Figure 20 Bowling, January 12 2020 (a day before Semester 2 classes started). The bowler was some Steve. This was organised by a group for international students and included free bowling, something that would usually be charged for](assets/R6P20.png "Figure 20 Bowling, January 12 2020 (a day before Semester 2 classes started). The bowler was some Steve. This was organised by a group for international students and included free bowling, something that would usually be charged for")
 ![Figure 21 View from near my residence, January 17 2020](assets/R6P21.png "Figure 21 View from near my residence, January 17 2020")
